@@ -1,6 +1,6 @@
 # **【持续更新】国内如何使用Claude（克劳德）？包括 Claude 4 Sonnet、Claude3.7 Sonnet（6种可行方式）**
 
-> 更新时间：2025-07-28
+> 更新时间：2025-08-03 
 
 **Claude**是由Anthropic团队打造的一款前沿语言模型，因其在自然语言处理、内容创作及复杂问题解决方面的卓越能力而广受用户好评。本文旨在详细介绍国内用户便捷使用Claude（克劳德）的方法，并汇总了当前六种主要的可行途径。特别值得关注的是，最新发布的**Claude 4 Sonnet**版本，已被业界公认为一款极具竞争力的模型。
 
@@ -39,8 +39,8 @@ Claude凭借其众多亮点，正吸引着越来越多的国内用户：
 #### 推荐平台：
 | 平台名称 | 支持功能 | 访问地址 |
 | --- | --- | --- |
-| **[Xsimp](https://xsimplechat.com)** | 集成 Claude 4 Sonnet、Claude 3.7 Sonnet、GPT 4o绘画、AI PPT、GPT-4.0、GPT-4.1 & mini等多种AI功能 | [点此体验](https://xsimplechat.com) |
-| **[蓝鲸 AI](https://chat.lanjingai.org/)** | 支持Claude 4、Claude 3.7、GPT 4.0 和 Grok，功能强大 | [立即访问](https://chat.lanjingai.org/) |
+| **[Xsimp](https://xsimplechat.com)** | 集成 Claude 4 Sonnet、Claude 3.7 Sonnet、Grok-4、GPT 4o绘画、AI PPT、GPT-4.0、GPT-4.1 & mini等多种AI功能 | [点此体验](https://xsimplechat.com) |
+| **[蓝鲸 AI](https://chat.lanjingai.org/)** | 支持Claude 4、Claude 3.7、GPT 4.0 、GPT-o1、GPT-o3和 Grok，功能强大 | [立即访问](https://chat.lanjingai.org/) |
 | **[深智 AI](https://deepseek-free.org/)** | Claude及DeepSeek等核心功能全部开放 | [前往访问](https://deepseek-free.org/) |
 
 **优点**：
