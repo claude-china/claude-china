@@ -37,6 +37,7 @@ Claude凭借其众多亮点，正吸引着越来越多的国内用户：
 部分国内的第三方AI综合平台已集成Claude功能，用户无需特殊网络设置即可快速访问。这些平台通常还支持多种其他AI服务，非常适合初学者及日常用户。
 
 #### 推荐平台：
+
 | 平台名称 | 支持功能 | 访问地址 |
 | --- | --- | --- |
 | **[Xsimp](https://xsimplechat.com)** | 集成 Claude 4 Sonnet、Claude 3.7 Sonnet、Grok-4、GPT-5、GPT 4o绘画、AI PPT、GPT-4.0、GPT-4.1 & mini等多种AI功能 | [点此体验](https://xsimplechat.com) |
